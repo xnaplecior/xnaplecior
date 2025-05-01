@@ -1,4 +1,1 @@
--  Yo, homie
--  I’m currently learning c++
--  Telegram: @xnaplecior
--  Sells BotNet source code / dm telegram
+
